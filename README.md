@@ -3,7 +3,7 @@
 ## 资料说明
 1. python数学建模  链接：https://pan.baidu.com/s/1Ow2CHzA6R9BG7rlDkY975A?pwd=dw20  提取码：dw20 
 2. 图论： [点击](https://github.com/sfvsfv/meisai/tree/main/%E5%9B%BE%E8%AE%BA%E7%AE%97%E6%B3%95%E5%8F%8A%E5%85%B6MATLAB%E5%AE%9E%E7%8E%B0)
-3. 吴恩达机器学习 链接：https://pan.baidu.com/s/1HOVm3FeslzybMa5u0oXY3w?pwd=oytw  提取码：oytw 
+3. 吴恩达机器学习 [链接](https://github.com/sfvsfv/Mathematical-modeling/tree/main/matlab%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 4. 语音：[点击](https://github.com/sfvsfv/meisai/tree/main/%E6%95%B0%E5%AD%97%E8%AF%AD%E9%9F%B3%E5%A4%84%E7%90%86%E5%8F%8AMATLAB%E4%BB%BF%E7%9C%9F)
 5. 最优化算法:[点击](https://github.com/sfvsfv/meisai/tree/main/%E6%9C%80%E4%BC%98%E5%8C%96%E9%97%AE%E9%A2%98%E7%9B%B8%E5%85%B3%E7%AE%97%E6%B3%95)
 6. 常用python算法：[点击](https://github.com/sfvsfv/meisai/tree/main/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A130%E4%B8%AA%E5%B8%B8%E7%94%A8%E7%AE%97%E6%B3%95(Python%E4%BB%A3%E7%A0%81)
@@ -11,7 +11,7 @@
 8. 金卓武数学建模：[点击](https://github.com/sfvsfv/meisai/tree/main/%E5%8D%93%E9%87%91%E6%AD%A6%E3%80%8AMATLAB%E5%9C%A8%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%8B%20%E7%AC%AC2%E7%89%88)
 9. 数学建模第五版：链接：https://pan.baidu.com/s/1B13RALO2xIoY9fZeB3htcA?pwd=95s2  提取码：95s2 
 10. 数学建模第四版： 链接：https://pan.baidu.com/s/1cNLGDUEGTYpDKR9ZLMzFlw?pwd=o7x3  提取码：o7x3 
-11. matlab机器视觉：[点我](https://github.com/sfvsfv/Mathematical-modeling/tree/main/matlab%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+11. matlab机器视觉：[点我]()
 
 
 
